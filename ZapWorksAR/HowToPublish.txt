@@ -1,0 +1,12 @@
+[Application Publishing Procedure]
+- Move the ElementsExtractor .js to the same folder (ZapWorksAR).
+- Changed > <script src="../ElementsExtractor.js" in index.html to <script src="ElementsExtractor</script>.js"></script>.
+- Select index.html and ElementsExtractor.js and zpt files and compress them into a zip file
+- Upload a zip file according to the instructions published by ZapWorks
+
+
+[Steps to publish an application]
+- Move ElementsExtractor.js to the same folder (ZapWorksAR).
+- Change <script src="../ElementsExtractor.js"></script> in index.html to <script src="ElementsExtractor.js"></script>.
+- Select index.html, ElementsExtractor.js, and zpt files, and compress them into a zip file.
+- Follow the instructions provided by ZapWorks to upload the zip file."
